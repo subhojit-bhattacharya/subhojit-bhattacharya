@@ -1,5 +1,5 @@
 ## Subhojit Bhattacharya
-AI/LLM Analyst | Kolkata, India
+Team Lead - Data Annotation | Kolkata, India
 
 I work on the evaluation side of language models. 
 
